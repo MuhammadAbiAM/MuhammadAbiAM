@@ -41,13 +41,13 @@ I am an enthusiastic developer with experience in various programming languages 
 - Pushed changes to [Jadwal-Skripsi](https://github.com/MuhammadAbiAM/Jadwal-Skripsi) on March 7, 2025.
 - Contributed to [PWEB2-Tugas-2](https://github.com/MuhammadAbiAM/PWEB2-Tugas-2) on October 17, 2024.
 
-### Connect with me
+### Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-abi-adzan-maulana-133a9b293?utm_source=share&utm_campaign=share_via&utm_content=profile&" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abi adzan maulana" height="30" width="40" /></a>
 <a href="https://instagram.com/abiidzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiidzn" height="30" width="40" /></a>
 </p>
 
-###
+### Play Game with Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph-dark.svg">
