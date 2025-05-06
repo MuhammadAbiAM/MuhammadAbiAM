@@ -47,14 +47,6 @@ I am an enthusiastic developer with experience in various programming languages 
 <a href="https://instagram.com/abiidzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiidzn" height="30" width="40" /></a>
 </p>
 
-### Play Game with Me
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/snake.svg" alt="Snake animation" />
