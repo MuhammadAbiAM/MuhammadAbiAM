@@ -15,7 +15,7 @@ I am an enthusiastic developer with experience in various programming languages 
 
 ### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,flutter,git,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,cs,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,flutter,git,docker&theme=light)](https://skillicons.dev)
 
 ### Top Projects
 
@@ -43,6 +43,6 @@ I am an enthusiastic developer with experience in various programming languages 
 
 ### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/muhammad abi adzan maulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abi adzan maulana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abi-adzan-maulana-133a9b293?utm_source=share&utm_campaign=share_via&utm_content=profile&" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abi adzan maulana" height="30" width="40" /></a>
 <a href="https://instagram.com/abiidzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiidzn" height="30" width="40" /></a>
 </p>
