@@ -1,14 +1,6 @@
 <h1 align="center">Hello World!👋, I'm Muhammad Abi Adzan Maulana</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
-</picture>
-
 ### About Me
 
 I am an enthusiastic developer with experience in various programming languages and frameworks. Currently, I am honing my skills in web development and contributing to different projects. I'm always eager to learn and collaborate with others!
@@ -54,6 +46,14 @@ I am an enthusiastic developer with experience in various programming languages 
 <a href="https://www.linkedin.com/in/muhammad-abi-adzan-maulana-133a9b293?utm_source=share&utm_campaign=share_via&utm_content=profile&" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abi adzan maulana" height="30" width="40" /></a>
 <a href="https://instagram.com/abiidzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiidzn" height="30" width="40" /></a>
 </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
