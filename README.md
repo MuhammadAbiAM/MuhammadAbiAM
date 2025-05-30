@@ -55,6 +55,5 @@ I am an enthusiastic developer with experience in various programming languages 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 <img src="https://raw.githubusercontent.com/MuhammadAbiAM/MuhammadAbiAM/output/snake.svg" alt="Snake animation" />
