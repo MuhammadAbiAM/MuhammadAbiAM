@@ -15,7 +15,7 @@ I am an enthusiastic developer with experience in various programming languages 
 
 ### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,node,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,git&theme=light)](https://skillicons.dev)
 
 <!-- ### Top Projects
 
