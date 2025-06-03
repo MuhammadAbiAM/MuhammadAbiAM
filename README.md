@@ -3,11 +3,11 @@
 
 ### About Me
 
-I am an enthusiastic developer with experience in various programming languages and frameworks. Currently, I am honing my skills in web development and contributing to different projects. I'm always eager to learn and collaborate with others!
+I am an enthusiastic web developer with experience in various programming languages and frameworks. Currently, I am honing my skills in web development and contributing to different projects. I'm always eager to learn and collaborate with others!
 
 - 🔭 I’m currently studying on **Politeknik Negeri Cilacap**
 
-- 🌱 I’m currently learning **Laravel, CodeIgniter, React**
+- 🌱 I’m currently learning **Laravel, CodeIgniter, React, ExpressJS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/MuhammadAbiAM/Portfolio)
 
