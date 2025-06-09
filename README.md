@@ -15,7 +15,7 @@ I am an enthusiastic web developer with experience in various programming langua
 
 ### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,expressjs,php,laravel&theme=light)](https://skillicons.dev)<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git&theme=light)](https://skillicons.dev)
 
 <!-- ### Top Projects
 
@@ -27,7 +27,7 @@ I am an enthusiastic web developer with experience in various programming langua
 
 ### GitHub Stats
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-6-brightgreen) ![Followers](https://img.shields.io/badge/Followers-0-red) ![Following](https://img.shields.io/badge/Following-0-blue)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-9-brightgreen) ![Followers](https://img.shields.io/badge/Followers-0-red) ![Following](https://img.shields.io/badge/Following-0-blue)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabiam&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
